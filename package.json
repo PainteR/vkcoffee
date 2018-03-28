@@ -1,0 +1,27 @@
+{
+  "name": "vkcoffee",
+  "version": "1.0.0",
+  "description": "Шифрование текста как в VK Coffee",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyadev/vkcoffee.git"
+  },
+  "keywords": [
+    "vkcoffee",
+    "vk-coffee",
+    "coffee-decrypt",
+    "coffee-encrypt",
+    "cofe",
+    "coffee",
+    "crypt",
+    "encrypt",
+    "aes"
+  ],
+  "author": "danyadev",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/danyadev/vkcoffee/issues"
+  },
+  "homepage": "https://github.com/danyadev/vkcoffee#readme"
+}
