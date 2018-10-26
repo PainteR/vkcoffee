@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danyadev/vkcoffee.git"
+    "url": "https://github.com/PainteR/vkcoffee.git"
   },
   "keywords": [
     "vkcoffee",
@@ -21,7 +21,7 @@
   "author": "danyadev",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/danyadev/vkcoffee/issues"
+    "url": "https://github.com/PainteR/vkcoffee/issues"
   },
-  "homepage": "https://github.com/danyadev/vkcoffee#readme"
+  "homepage": "https://github.com/PainteR/vkcoffee#readme"
 }
